@@ -2,3 +2,11 @@ hola
 amigos 
 lindos 
 melo 
+hi, me siento mal del estomago
+pero no se  
+holi wiii
+recuerda pwd, despues ls, y debues code y el nombre
+no olvidar git add .
+por utimo git commit -m "y aqui el msj"
+git show para ver toda la historia y luego 
+git diff (y ahi pongo los numeros de referencia para apreciar los cambios )
