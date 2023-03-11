@@ -11,9 +11,12 @@ por utimo git commit -m "y aqui el msj"
 git show para ver toda la historia y luego 
 git diff (y ahi pongo los numeros de referencia para apreciar los cambios )
 
+<<<<<<< HEAD
 para crear una nueva cabezera se utiliza el comando 
 
 
+=======
+>>>>>>> cabecera1
 
 para cambiar de el master a otra rama se utiliza 
  git checkout (y aqui el nombre de la rama)
